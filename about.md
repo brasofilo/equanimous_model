@@ -2,7 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+
 ---
+
+![2020-06-04-389039.jpg](https://brasofilo.github.io/equanimous_model/assets/2020-06-04-389039.jpg)
 
 A simple and elegant theme for Jekyll and GitHub Pages.
 
