@@ -4,7 +4,7 @@ social_link: twitter
 social_username: brasofilo
 github_repo: athena
 github_username: brasofilo
-theme_color: grey
+theme_color: black
 remote_theme: internet-de-france/swiss
 baseurl: /equanimous_model
 defaults:
